@@ -275,8 +275,13 @@ display: none !important;
     background-size: cover;
     height: auto;
 }
-.accordionbtn{
+
+#accordionbtn1,#accordionbtn2,#accordionbtn3,#accordionbtn4,#accordionbtn5:hover {
     text-decoration: none;
+}
+#accordion .card{
+    background-color: transparent;
+    border: 0;
 }
 /*=======================================footer=========================== */
 .footer{
