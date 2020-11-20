@@ -58,4 +58,8 @@
     .footer hr{
         display: none !important;
     }
+    .showImg{
+        display: block;
+    }
+    
 }
