@@ -232,6 +232,7 @@ display: none !important;
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
+    height: auto;
 }
 /*=======================================footer=========================== */
 .footer{
