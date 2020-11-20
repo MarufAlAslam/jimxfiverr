@@ -507,53 +507,7 @@ html{
     padding: 100px 0;
 }
 
-
-/* magamenu */
-/* .dropdown-menu{
-    padding: 0 !important;
-   
-}
-.dropdown ul{
-    border-radius: 10px !important;
-}
-.dropdown ul li{
-    padding: 10px 0 !important;
-    border: 0;
-}
-
-.dropdown ul i{
-    position: absolute;
-    right: 10px;
-    top: 35%;
-}
-.dropdown ul li:hover{
-    background-color: #FFF9EC;
-    color: #FDDF6D !important;
-    transition: all 0.2s ease-in;
-    transform: scale(1.01);
-    border-radius: 5px;
-}
-.dropdown ul li:hover a{
-    color: #FDDF6D !important;
-}
-.dropdown ul li:hover ul li a{
-    color: black !important;
-}
-.dropdown ul li ul li:hover a{
-    color: #FDDF6D !important;
-}
-.dropdown ul li a{
-    text-decoration: none;
-    font-size: 14px;
-}
-nav.navbar.bootsnav li.dropdown ul.dropdown-menu{
-    border: 0 !important;
-    margin-top: 5px;
-    box-shadow: 0px -2px 2px black;
-} */
-
-/* ========================== */
-
+/*remove overflow*/
 @media only screen and (max-width: 992px){
     body{
         overflow-x:hidden !important;
