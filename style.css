@@ -501,6 +501,15 @@ html{
 .service1 ul li{
     letter-spacing: 1px;
 }
+.showImg{
+    background-image: url("image1.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+    display: none;
+}
 
 /* =======================message us================== */
 .messageus{

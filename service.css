@@ -67,8 +67,8 @@
     input{
         margin: 5px 0 !important;
     }
-    /* form .btn{
-        display:  inline-block;
-    } */
+    .showImg{
+        display: block;
+    }
     
 }
