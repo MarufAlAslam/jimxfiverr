@@ -227,6 +227,12 @@ display: none !important;
     margin: 0;
     background-color: white !important;
 }
+.imgback{
+    background-image: url("diary.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
 /*=======================================footer=========================== */
 .footer{
     background-color: #33334E;
