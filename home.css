@@ -60,4 +60,7 @@
     .imgback{
         height: 400px;
     }
+    .showImg{
+        display: block;
+    }
 }
