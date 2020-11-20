@@ -234,6 +234,9 @@ display: none !important;
     background-size: cover;
     height: auto;
 }
+.accordionbtn{
+    text-decoration: none;
+}
 /*=======================================footer=========================== */
 .footer{
     background-color: #33334E;
