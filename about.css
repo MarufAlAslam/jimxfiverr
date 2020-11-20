@@ -1,0 +1,61 @@
+@media only screen and (max-width:992px){
+    .whoweare .myImg1{
+        top: 100px !important;
+    }
+    .whoweare .card:nth-child(2) {
+        position: absolute;
+        top: 40% !important;
+        right: 0px !important;
+    }
+}
+@media only screen and (max-width:830px){
+    .whoweare .myImg1{
+        position: relative !important;
+        display: inline !important; 
+        width: 100px !important;
+        top: 130px !important;
+    }
+    .whoweare .myImg1 img{
+        width: 100%;
+    }
+    .whoweare .myImg2{
+        display: none;    
+    }
+}
+
+@media only screen and (max-width:767px){
+    .whoweare .myImg1{
+        display: none !important;
+    }
+    .whoweare{
+        text-align: center !important;
+    }
+    .one,.two,.three{
+        display: none !important;
+    }
+    .hidbtn{
+        display: none;
+    }
+    .mobbtn{
+        display: block !important;
+    }
+
+    .diary{
+        text-align: center !important;
+    }
+    .footer{
+        text-align: center !important;
+    }
+    .footer .float-left{
+        float: none !important;
+        margin: 10px 0;
+    }
+    .footer .col-md{
+        margin: 20px 0;
+        padding: 10px 0;
+        border-bottom: 2px solid gray;
+    }
+    .footer hr{
+        display: none !important;
+    }
+}
