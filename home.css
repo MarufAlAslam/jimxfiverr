@@ -1,3 +1,4 @@
+
 @media only screen and (max-width:992px){
     .secondSection .card:nth-child(1) {
         position: absolute !important;
@@ -55,5 +56,8 @@
     }
     .footer hr{
         display: none !important;
+    }
+    .imgback{
+        height: 400px;
     }
 }
