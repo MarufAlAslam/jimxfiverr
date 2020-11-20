@@ -547,5 +547,7 @@ nav.navbar.bootsnav li.dropdown ul.dropdown-menu{
 /* ========================== */
 
 @media only screen and (max-width: 992px){
-    overflow-x:hidden;
+    html{
+        overflow-x:hidden;
+    }
 }
