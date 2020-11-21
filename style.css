@@ -463,7 +463,10 @@ html{
 }
 
 
-
+.modalSlider .card{
+    background-color: transparent;
+    border: 0;
+}
 
 
 
