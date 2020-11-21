@@ -4,6 +4,25 @@ $('.slider').slick({
   autoplay: true,
   autoplaySpeed: 2000,
   dots:true,
+  responsive: [
+    {
+      breakpoint: 768,
+      settings: {
+        slidesToShow: 1,
+        slidesToScroll: 1,
+        infinite: true,
+        dots: true
+      }
+    },
+    {
+      breakpoint: 992,
+      settings: {
+        slidesToShow: 2,
+        slidesToScroll: 2
+      }
+    },
+    
+  ]
 });
 
 $('.TestimonialSlider').slick({
